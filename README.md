@@ -1,1 +1,1 @@
-## is a custom version of the [Jen Simmons' demo](https://labs.jensimmons.com/2019/01-004.html).
+## it is a custom version of the [Jen Simmons' grid demo](https://labs.jensimmons.com/2019/01-004.html).
